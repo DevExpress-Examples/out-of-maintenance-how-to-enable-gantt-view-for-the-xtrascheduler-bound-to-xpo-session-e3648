@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Gantt_on_XPO/Form1.cs) (VB: [Form1.vb](./VB/Gantt_on_XPO/Form1.vb))
+* [Program.cs](./CS/Gantt_on_XPO/Program.cs) (VB: [Program.vb](./VB/Gantt_on_XPO/Program.vb))
+<!-- default file list end -->
 # How to enable Gantt view for the XtraScheduler bound to XPO Session
 
 
